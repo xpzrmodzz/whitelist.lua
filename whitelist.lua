@@ -1,6 +1,6 @@
 return {
     [1724989894] = true, -- moi
-    [2297130039] = true, -- skylleur
+    [2297130039] = false, -- skylleur
     [720726589] = true, --skylleur
     [2580390306] = true,--skylleur
     [5464024414] = true, --skylleur
