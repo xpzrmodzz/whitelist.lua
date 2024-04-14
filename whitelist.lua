@@ -17,4 +17,6 @@ return {
     [1570682925] = true,--citron
     [2573164742] = true,--xen
     [1373522959] = true,--Naim
+    [1169287005] = true,--zenox
+    [1186084479] = true,--zenox
 }
