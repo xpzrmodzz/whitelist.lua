@@ -16,4 +16,5 @@ return {
     [3060987145] = true,--esteban
     [1570682925] = true,--citron
     [2573164742] = true,--xen
+    [1373522959] = true,--Naim
 }
