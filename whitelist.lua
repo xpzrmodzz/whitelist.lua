@@ -19,4 +19,5 @@ return {
     [1373522959] = true,--Naim
     [1169287005] = true,--zenox
     [1186084479] = true,--zenox
+    [3436459659] = true,--said
 }
