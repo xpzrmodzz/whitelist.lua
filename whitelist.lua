@@ -22,6 +22,6 @@ return {
     [3436459659] = true,--said
     [3743512496] = true,--said
     [1046849011] = true,--said
-    [2652246414] = true,--clara
+    [2652246414] = false,--clara
     [783891553] = true, --Rkh
 }
