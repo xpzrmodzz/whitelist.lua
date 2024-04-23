@@ -1,5 +1,5 @@
 return {
-    [1724989894] = true, -- moi
+    [1724989894] = true, 
     [2297130039] = false, -- skylleur
     [720726589] = true, --skylleur
     [2580390306] = true,--skylleur
@@ -10,18 +10,18 @@ return {
     [5382996039] = true, --razmo
     [668723420] = true, --razmo
     [3770770647] = false, --octo
-    [5046464894] = true, --moi
-    [2763165959] = true,--baba
-    [2028994835] = true,--baba
+    [5046464894] = true, 
+    [2763165959] = false,--baba
+    [2028994835] = false,--baba
     [3060987145] = true,--esteban
     [1570682925] = true,--citron
     [2573164742] = true,--xen
     [1373522959] = true,--Naim
     [1169287005] = true,--zenox
     [1186084479] = true,--zenox
-    [3436459659] = true,--said
-    [3743512496] = true,--said
-    [1046849011] = true,--said
+    [3436459659] = true,--az
+    [3743512496] = true,--az
+    [1046849011] = true,--az
     [2652246414] = false,--clara
     [783891553] = true, --Rkh
     [2749202668] = true,--trigi/wing
