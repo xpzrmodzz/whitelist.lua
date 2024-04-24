@@ -25,4 +25,5 @@ return {
     [2652246414] = false,--clara
     [783891553] = true, --Rkh
     [2749202668] = true,--trigi/wing
+    [1263958578] = true,--rayan
 }
