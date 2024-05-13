@@ -27,4 +27,5 @@ return {
     [2749202668] = true,--trigi/wing
     [1263958578] = true,--rayan
     [4175853161] = true,--trigi alt
+    [4247103729] = true, --allan
 }
