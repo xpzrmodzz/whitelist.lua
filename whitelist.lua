@@ -28,4 +28,5 @@ return {
     [1263958578] = true,--rayan
     [4175853161] = true,--trigi alt
     [4247103729] = true, --allan
+    [5855501399] = true,--allan alt
 }
