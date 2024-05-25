@@ -34,5 +34,6 @@ return {
     [6011860605] = true,
     [2728112627] = true,--skylleur
     [3102701825] = true,
+    [5839043722] = true, --allan
 }
 
