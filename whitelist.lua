@@ -36,5 +36,6 @@ return {
     [3102701825] = true,
     [5839043722] = true, --allan
     [2629147135] = true, --meuf de allan
+    [3029957311] = true, --ghost
 }
 
