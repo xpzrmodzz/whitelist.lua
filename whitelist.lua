@@ -39,5 +39,6 @@ return {
     [3029957311] = true, --ghost
     [5376812964] = true, --ghost alt
     [3144536081] = true, --from
+    [2696294233] = true, --ali
 }
 
