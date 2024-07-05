@@ -41,5 +41,6 @@ return {
     [3144536081] = true, --from
     [2696294233] = true, --ali
     [3584808897] = true, --rayan alt
+    [2242478160] = true, --rayan alt
 }
 
