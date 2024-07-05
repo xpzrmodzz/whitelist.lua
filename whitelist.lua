@@ -42,5 +42,6 @@ return {
     [2696294233] = true, --ali
     [3584808897] = true, --rayan alt
     [2242478160] = true, --rayan alt
+    [2889094638] = true, --yez
 }
 
