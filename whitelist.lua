@@ -43,5 +43,7 @@ return {
     [3584808897] = true, --rayan alt
     [2242478160] = true, --rayan alt
     [2889094638] = true, --yez
+    [4318692676] = true, --rayan alt
+    [1795691022] = true, -- rayan alt
 }
 
