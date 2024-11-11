@@ -1,3 +1,4 @@
+-- Liste blanche vide
 return {
-   [test] = true, 
+    -- Ajouter les IDs ici
 }
