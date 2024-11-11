@@ -1,4 +1,4 @@
--- Liste blanche vide
+-- blacklist
 return {
     -- Ajouter les IDs ici
 }
